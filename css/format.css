@@ -1,0 +1,19 @@
+.mycustom-nav{
+    background: linear-gradient(rgba(0, 0, 0, 0.534), rgba(0, 0, 0, 0.473)), url('../images/image2.png') white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}                       
+.nav-list{
+    color: white;
+    font-size: 0.8rem
+}
+.para-sm{
+    font-size: 0.8rem;
+}
+.btn-perso{
+    width: 75%;
+}
+.icon-perso{
+    color: black;
+}
